@@ -9,8 +9,6 @@ public class _05UnaryOperations {
 //        take a -> add 1 -> rewrite a
 //        a = a + 1;
 //        a += 1;
-        System.out.println(a + 1);
-        System.out.println(a);
         a++;
         System.out.println(a);
 
